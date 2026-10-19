@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritesh Patil
 - 👀 I’m Passionate about Coding 
-- 🌱 I’m currently pursuing B.Tech from JJ Magdum College of engineering jaysingpur 
+- 🌱 I have completed B.Tech from JJ Magdum College of engineering jaysingpur 
 - 💞️ I’m looking to Enhancing my skills and Knowledge to solve real world problem
 
 <!---
